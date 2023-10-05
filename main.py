@@ -1,1 +1,5 @@
-print("hello world")
+def tester():
+  print("hello world")
+
+
+tester()
